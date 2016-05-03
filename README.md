@@ -5,7 +5,7 @@ inputs: sample.sam, sample.gtf
 Usage: 
 
 1. place py in a directory with your sample.sam and sample.gtf
-2. run with python (i.e $python Sam2tpm_rpkm.py)
+2. run with python (i.e `$python Sam2tpm_rpkm.py`)
 
 How it works:
 
